@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Praphul Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3YxMjhpcnI3YXEwZjR1dmtmZ3h1cGJ2emw4bzJjbHVjamxpZXBnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" style="max-width: 50%; display: inline-block;" height="350" data-target="animated-image.originalImage">
+<img align="right" alt="Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3YxMjhpcnI3YXEwZjR1dmtmZ3h1cGJ2emw4bzJjbHVjamxpZXBnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" style="max-width: 50%; display: inline-block;" height="250" data-target="animated-image.originalImage">
 
 
 - 🔭 I’m currently working on **Google Cloud,GenAI,GSSOC,WOB,Hacakthons.**
