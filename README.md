@@ -7,15 +7,11 @@
 <img align="right" alt="Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3YxMjhpcnI3YXEwZjR1dmtmZ3h1cGJ2emw4bzJjbHVjamxpZXBnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" style="max-width: 50%; display: inline-block;" height="250" data-target="animated-image.originalImage">
 
 
-- 🔭 I’m currently working on **Google Cloud,GenAI,GSSOC,WOB,Hacakthons.**
+- 🔭 I’m currently working on **Google Cloud,GenAI,PostMan API,Hacakthons.**
 
 - 🌱 I’m currently learning **Web Development and Programming Languages.**
 
 - 📫 How to reach me **praphul.pandey.1803@gmail.com**
-
-- 🥅 2024 Goals: Contribute More to Open Source Projects.
-
-- ⚡ Fun fact **I'm Still Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
